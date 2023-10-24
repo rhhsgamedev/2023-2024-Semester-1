@@ -1,0 +1,13 @@
+scale: 40
+xxxxxxxxxxxx1xxxxxxxxxx
+xxxxx.............xxxxx
+xxx..................xx
+xxx..................xx
+xxxxxxxx.............xx
+xxxxxxx...............x
+x...............xxxxxxx
+x...............xxxxxxx
+x2xxxxxxxxxxxxxxxxxxxxx
+-
+1: map2
+2: map3

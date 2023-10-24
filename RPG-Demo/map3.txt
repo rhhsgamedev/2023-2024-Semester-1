@@ -1,0 +1,12 @@
+scale: 50
+xxxxxxxxxxxx1xxxxxxxxxx
+xxxxxxxxxxxx.xxxxxxxxxx
+xxx..................xx
+xxx..................xx
+xxx..................xx
+xxx.................xxx
+xxxxxx..........xxxxxxx
+xxxxxxxx........xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx
+-
+1: map1
